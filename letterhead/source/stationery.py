@@ -27,7 +27,7 @@ AR, AR_M, AR_B = FONT_FILES["GT-Ar"], FONT_FILES["GT-Ar-Med"], FONT_FILES["GT-Ar
 SOFT = HexColor("#C9D3DE")
 
 # --- editable contact details (placeholders) --------------------------------
-TEL = "0100 000 0000"
+TEL = "01067668961"
 MAIL = "info@goyaten.com"
 WEB = "www.goyaten.com"
 

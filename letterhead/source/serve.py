@@ -182,7 +182,7 @@ def index_html():
 <footer>
   الألوان: كحلي <code>#0E2A47</code> + ذهبي <code>#C0A062</code> · الخطوط: IBM Plex Sans Arabic + Lato Black<br>
   للطباعة: اختر مقاس 100% (Actual size) بدون «Fit to page». الهاتف/الإيميل/الموقع قيم مؤقتة
-  (<code>0100 000 0000</code> · <code>info@goyaten.com</code> · <code>www.goyaten.com</code>) — أرسل القيم الصحيحة لتُعدَّل.<br>
+  (<code>01067668961</code> · <code>info@goyaten.com</code> · <code>www.goyaten.com</code>) — أرسل القيم الصحيحة لتُعدَّل.<br>
   للتحميل من جهازك مباشرة دون سيرفر: الملفات في مجلد <code>letterhead/</code> داخل المستودع.
 </footer>
 </body></html>"""
